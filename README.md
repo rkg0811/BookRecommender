@@ -14,7 +14,7 @@ Dataset is taken from [Kaggle](https://www.kaggle.com/ra4u12/bookrecommendation)
 1. Libraries like
    - Pandas
    - Numpy
-   - metplotlib
+   - matplotlib
    - flask-ngrok
 2. Google Colab.
 3. Dataset - Download and save in this folder.
